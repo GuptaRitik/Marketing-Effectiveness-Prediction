@@ -6,7 +6,7 @@
 This project aims to help a bank increase its term deposits by using data from direct marketing campaigns (phone calls) to predict customer response and target the most likely customers. This will enable the bank to optimize its marketing strategy, reduce costs and improve customer satisfaction. The project will use machine learning techniques to analyze customer features, such as demographics and transaction history, and identify patterns and trends that indicate customer saving behaviors. The project will also evaluate the effectiveness of different marketing channels and messages and provide recommendations for future campaigns. The project will deliver a predictive model, a customer segmentation and a marketing plan.
 
 <h2> :floppy_disk: Project Files Description</h2>
-<p>This Project contain 4 Files:</p>
+<p>This Project contain 5 Files:</p>
 <ul>
   <li><b>NoteBook</b> - Includes all the colab notebooks available for the project.</li>
   <li><b>Presentation</b> - Has Presentation of the whole project in file.</li>
